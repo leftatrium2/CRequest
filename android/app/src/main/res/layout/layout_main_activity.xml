@@ -5,6 +5,12 @@
     android:orientation="vertical">
 
     <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_go_to_gson"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="GSON" />
+
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_go_to_wanandroid"
         android:layout_width="match_parent"
         android:layout_height="50dp"
